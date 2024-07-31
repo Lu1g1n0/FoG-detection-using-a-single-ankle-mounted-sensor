@@ -59,7 +59,7 @@ When evaluating test performance, remember that test data and label are here seg
 
 Please cite the following paper in your publications if this repository helps your research.
 
-Luigi Borzì, Luis Sigcha, Daniel Rodríguez-Martín, Gabriella Olmo, Freezing of gait detection: the effect of sensor type, position, activities, datasets, and machine learning model, Journal of Parkinson's disease (2024). [DOI: upcoming](https://doi.org/upcoming).
+Luigi Borzì et al. Freezing of gait detection: the effect of sensor type, position, activities, datasets, and machine learning model, Journal of Parkinson's disease (2024). [DOI: upcoming](https://doi.org/upcoming).
 
 ## Contact
 
